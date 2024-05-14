@@ -10,7 +10,7 @@ export const GlobalStyle = createGlobalStyle `
         background-image: url(${BGImage});
         background-size: cover;
         margin: 0;
-        padding: 0 20px;
+        padding: 50px;
         display: flex;
         justify-content: center
     }
